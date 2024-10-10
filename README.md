@@ -2,7 +2,7 @@
 
 **Pipeline and Code Author:** Breah LaSarre
 
-**Manuscript Authors:** Kephas Mphande, Breah LaSarre, Ashley A. Paulsen, Sharon Badilla-Arias, Renee Hartung, Larry J. Halverson, Mark L. Gleason, and Gwyn A. Beattie  
+**Manuscript Authors:** Kephas Mphande, Breah LaSarre, Ashley A. Paulsen, Renee Hartung, Sharon Badilla-Arias, Mark L. Gleason, and Gwyn A. Beattie  
 
 **Manuscript status:** Submitted
 
