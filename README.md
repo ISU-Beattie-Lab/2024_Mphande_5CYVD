@@ -6,7 +6,7 @@
 
 **Manuscript status:** Submitted
 
-**Manuscript details:** Mphande K, LaSarre B, Paulsen AA, Badilla-Arias S, Hartung R, Halverson LJ, Gleason ML, and Beattie, GA. Cucumber yellow vine disease-causing bacteria belong to the *Serratia ureilytica* species within the *S. marcescens* complex and can be vectored by cucumber beetles.
+**Manuscript details:** Mphande K, LaSarre B, Paulsen AA, Hartung R, Badilla-Arias S, Gleason ML, and Beattie, GA. Bacteria that cause cucurbit yellow vine disease fall within the *Serratia ureilytica* species of the *S. marcescens* complex and can be vectored by cucumber beetles.
 
 **Contact:** gbeattie@iastate.edu
 
